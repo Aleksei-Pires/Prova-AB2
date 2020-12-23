@@ -1,0 +1,23 @@
+pergunta_1 = input("Telefonou para a vítima?")
+pergunta_2 = input("Esteve no local do crime?")
+pergunta_3 = input("Mora perto da vítima?")
+pergunta_4 = input("Devia para a vítima?")
+pergunta_5 = input("Já trabalhou com a vítima?")
+
+if sim ≥0 1≤
+print("Inocente")
+if sim == 2
+print("Suspeito")
+if sim ≥3 4≤
+print("Cúmplice"
+if sim == 5
+print("Assassino")
+
+if não ≥5 4≤
+print("Inocente")
+if não ==3
+print("Suspeito")
+if não ≥2 1≤
+print("Cúmplice"
+if não ==0
+print("Assassino")
