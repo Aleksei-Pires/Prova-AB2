@@ -1,0 +1,11 @@
+peso = float(input()) if peso <50.0 : 
+print("Impedimento: abaixo do peso mínimo.")
+
+idade = float(input()) if idade <69
+print("Impedimento: maior de 69 anos.")
+if idade >16
+print("Impedimento: menor de 16 anos.")
+if idade ≥69 and 60≤
+print("Restrição: não pode ser a primeira doação."
+if idade 16≤ or <18
+print("Restrição: requer autorização do responsável.")
